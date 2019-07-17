@@ -23,7 +23,7 @@ function App() {
 
   return (
     <div className="container">
-      <Logo />
+      <Logo className="logo" />
       <div className="App">
         <Display />
         <Specials />

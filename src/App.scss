@@ -1,4 +1,9 @@
 .container {
     background: red;
     width: 350px;
+    border-radius: 20px;
+    .logo {
+        margin: 30px;
+        width: 30%
+    }
 }
