@@ -40,12 +40,14 @@
                 button{
                     background: #005D9A;
                     border:none;
+                    box-shadow: -1px 3px #0013219a;
                 }
             }
             .numberButtons {
                 button{
                     background: #004377;
                     border: none;
+                    box-shadow: -1px 3px #0013219a;
                 }
                 :nth-child(10) {
                     width: 126px;
@@ -57,7 +59,8 @@
                 margin-right: 20px;
                 button{
                   background: #007291; 
-                  border: none; 
+                  border: none;
+                  box-shadow: -1px 3px #0013219a;
                 }
                 
             }
