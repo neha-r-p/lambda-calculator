@@ -19,5 +19,25 @@
             font-weight: bolder;
             font-size: 2em;
         }
+        .buttons {
+            display:flex;
+            justify-content: space-between;
+            button{
+                font-size: 1.8em;
+                margin: 10px;
+                padding:5px;
+                border-radius: 50%;
+                width: 53px;
+            }
+           .leftColumn {
+            display: flex;
+            flex-direction: column;
+            width:80%;
+            } 
+            .operatorButtons {
+                width: 15%;
+            }
+        }
+        
     }
 }
