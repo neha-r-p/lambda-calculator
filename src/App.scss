@@ -47,6 +47,10 @@
                     background: #004377;
                     border: none;
                 }
+                :nth-child(10) {
+                    width: 126px;
+                    border-radius: 25px;
+                }
             }
             .operatorButtons {
                 width: 15%;
